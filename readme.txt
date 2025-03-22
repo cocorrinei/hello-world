@@ -1,2 +1,2 @@
 "Hello!"
-"yo wassup git"
+"hi to all of git!"
